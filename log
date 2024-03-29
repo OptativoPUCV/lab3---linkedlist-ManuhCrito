@@ -2,3 +2,9 @@ Fri 29 Mar 2024 10:53:24 PM UTC:
  tests:  0|6
 total_score: 0/70
 662c7fc
+Fri 29 Mar 2024 10:56:40 PM UTC: 
+ list.c | 90 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++--
+ 1 file changed, 88 insertions(+), 2 deletions(-)
+ tests:  12|0
+total_score: 70/70
+3691bc7
